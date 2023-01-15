@@ -612,6 +612,10 @@ footer {
         align-items: center;
     }
 
+    .some-facts {
+        margin: 50px 0px;
+    }
+
     .news-letter{
         width: 100%;
         height: auto;
